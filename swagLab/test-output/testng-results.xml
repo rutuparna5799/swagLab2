@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T20:42:24 IST" name="Default suite" finished-at="2023-08-24T20:43:26 IST" duration-ms="62111">
+    <groups>
+    </groups>
+    <test started-at="2023-08-24T20:42:24 IST" name="Default test" finished-at="2023-08-24T20:43:26 IST" duration-ms="62111">
+      <class name="com.Pages.TestNG_Executor">
+        <test-method signature="f()[pri:0, instance:com.Pages.TestNG_Executor@393671df]" started-at="2023-08-24T20:42:24 IST" name="f" finished-at="2023-08-24T20:43:26 IST" duration-ms="62082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.Pages.TestNG_Executor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
